@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Dr Blobfish
+description: student | science Lover | Serial procrastinator
 
 baseurl: /drblobfish.github.io #name of GitHub repository
 url: #custom url to be used instead of GitHub repository
@@ -17,12 +17,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+github: "https://github.com/drblobfish"
 
 highlighter: rouge
 markdown: kramdown
