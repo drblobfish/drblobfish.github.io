@@ -11,6 +11,9 @@ email: #
 highlighter: rouge
 markdown: kramdown
 
+# Build settings
+mathjax: true
+
 # Pagination
 paginate: 4
 permalink: /blog/:year/:title/
