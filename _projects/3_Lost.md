@@ -1,13 +1,13 @@
 ---
 layout: post
-title: LOst
+title: LOST
 description: a game jam project
 ---
 
 
 ![Lost shadow logo](/assets/images/Lost/Lost_logo.png)
 
-Lost is a short game I made with my friend [`<Discursif/>`](https://discursif.itch.io/) for the [*Two Color Game Jam*](https://itch.io/jam/2-colors-game-jam/entries).
+LOST is a short game I made with my friend [`<Discursif/>`](https://discursif.itch.io/) for the [*Two Color Game Jam*](https://itch.io/jam/2-colors-game-jam/entries).
 
 I mostly worked on the graphical part of the game, working with Adobe Illustrator and animating with Adobe After Effect
 
