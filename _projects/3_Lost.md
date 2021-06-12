@@ -17,19 +17,22 @@ You can download the game on its [itch.io page](https://discursif.itch.io/l0st)
 ![Lost Screenshot](/assets/images/Lost/Lost_screenshot.png)
 
 
-## Animation
+## Animations
 
 
 <table>
 <tr>
  <th scope="col">
  	<img src="https://drblobfish.github.io/assets/images/Lost/death_anim.gif" width="95%">
+    <p align="center"> Death animation</p>
  </th>
  <th scope="col">
  	<img src="https://drblobfish.github.io/assets/images/Lost/run_anim.gif" width="95%">
+    <p align="center"> Run animation</p>
  </th>
  <th scope="col">
  	<img src="https://drblobfish.github.io/assets/images/Lost/idle_anim.gif" width="95%">
+    <p align="center"> Death animation</p>
  </th>
 </tr>
 </table>
