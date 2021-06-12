@@ -29,6 +29,18 @@ Here is some early concept art of when we were still figuring out what direction
 ![First prototype of the game](/assets/images/little_shadow/prototype.png)
 
 
+<table>
+<tr>
+ <th scope="col">
+ 	<img src="https://drblobfish.github.io/assets/images/little_shadow/concept_art_light_darkness.png" width="95%">
+ 	<p align="center"> Some early concept art</p>
+ </th>
+ <th scope="col">
+ 	<img src="https://drblobfish.github.io/assets/images/little_shadow/prototype.png" width="95%">
+ 	<p align="center"> A prototype of the "shadow light" idea</p>
+ </th>
+</table>
+
 We eventually decided to stick to the idea of a character using some sort of "shadow light" in a really bright environment.
 
 Here's some of my 3d modelling work.
