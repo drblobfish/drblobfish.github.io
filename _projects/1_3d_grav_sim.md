@@ -10,10 +10,10 @@ description: unfinished project about simulating gravity
 
 In this project, I basically applied what I learned about classical physics in 12th grade to simulate gravitational interaction between ponctual object in 3d.
 
-I worked on it duroing the first lockdown, with 2 of my classmates, at a time when we had no idea what differential equation were.
+I worked on it during the first lockdown, with 2 of my classmates, at a time when we had no idea what differential equation were.
 
 
-It's mostly a js project, we used [Three.js](https://threejs.org/) as the 3d engine and [materialize](https://materializecss.com/) as html/css framework
+It's mostly a js project, we used [Three.js](https://threejs.org/) as 3d engine and [materialize](https://materializecss.com/) as html/css framework.
 
 
 Currently it's really shitty, and there's a high probability it will stay unfinished forever. But you can [test it online](https://drblobfish.github.io/3D_planet_sim/) if you really want to.
@@ -21,7 +21,7 @@ Currently it's really shitty, and there's a high probability it will stay unfini
 
 # How does it work ?
 
-As I'm writing this, it's been one year since I stopped working on this project. It's the best time to dive one last time in the old messy code, and see what I can learn from the not-so-wise design choices we made when working on the project.
+As I'm writing this, it's been one year since I stopped working on this project. It's the right time to dive one last time in the old messy code, and see what I can learn from the not-so-wise design choices we made when working on the project.
 
 Basically, for each new frame, the code compute the acceleration of each point, according to Newtown's second law : 
 $$ \sum \vec{F} = m \vec{a} $$

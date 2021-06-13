@@ -32,7 +32,7 @@ You can download the game on its [itch.io page](https://discursif.itch.io/l0st)
  </th>
  <th scope="col">
  	<img src="https://drblobfish.github.io/assets/images/Lost/idle_anim.gif" width="95%">
-    <p align="center"> Death animation</p>
+    <p align="center"> Idle animation</p>
  </th>
 </tr>
 </table>
