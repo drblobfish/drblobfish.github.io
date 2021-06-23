@@ -8,9 +8,9 @@ description: unfinished project about simulating gravity
 [ ![Screenshot of the 3d view](/assets/images/3d_grav_sim/3d_view_screen.png)](https://drblobfish.github.io/3D_planet_sim/)
 
 
-In this project, I basically applied what I learned about classical physics in 12th grade to simulate gravitational interaction between ponctual object in 3d.
+In this project, I basically applied what I learned about classical physics in 12th grade to simulate gravitational interactions between ponctual objects in 3d.
 
-I worked on it during the first lockdown, with 2 of my classmates, at a time when we had no idea what differential equation were.
+I worked on it during the first lockdown, with 2 of my classmates, at a time when we had no idea what differential equations were.
 
 
 It's mostly a js project, we used [Three.js](https://threejs.org/) as 3d engine and [materialize](https://materializecss.com/) as html/css framework.
