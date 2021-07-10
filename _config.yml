@@ -20,7 +20,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-github: "https://github.com/drblobfish"
+github: "drblobfish"
 
 highlighter: rouge
 markdown: kramdown
