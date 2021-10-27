@@ -28,14 +28,14 @@ Our main goals are : security because a centrifuge spins very fast and is danger
 
 <p align="center">
     <img src="/assets/images/centrifuge/3d_centri.png" width="95%">
-    <p>3d design of our centrifuge - adapted from T-FLEX CAD ST (CC BY 4.0)</p>
+    <i align="center">3d design of our centrifuge - adapted from T-FLEX CAD ST (CC BY 4.0)</i>
 </p>
 
 The rotation of the centrifuge is provided by pedaling on a bicycle. A 3d printed reduction gear is used to increase the rotational speed. We also created a tachometer to measure the speed of the centrifuge.
 
 <p align="center">
     <img src="/assets/images/centrifuge/reduction_gear.jpg" width="95%">
-    <p>The 3d printed gear that provides the speed multiplication and the magnetic sensor of the speedometer</p>
+    <i align="center">The 3d printed gear that provides the speed multiplication and the magnetic sensor of the speedometer</i>
 </p>
 
 # TIME LINE of the project
