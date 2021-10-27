@@ -28,6 +28,7 @@ Our main goals are : security because a centrifuge spins very fast and is danger
 
 <p align="center">
     <img src="/assets/images/centrifuge/3d_centri.png" width="95%">
+    <br />
     <i align="center">3d design of our centrifuge - adapted from T-FLEX CAD ST (CC BY 4.0)</i>
 </p>
 
@@ -35,6 +36,7 @@ The rotation of the centrifuge is provided by pedaling on a bicycle. A 3d printe
 
 <p align="center">
     <img src="/assets/images/centrifuge/reduction_gear.jpg" width="95%">
+    <br />
     <i align="center">The 3d printed gear that provides the speed multiplication and the magnetic sensor of the speedometer</i>
 </p>
 
@@ -52,7 +54,12 @@ Week4 : We aimed to finish the POC, proof of concept. We assembled all component
 
 Our prototype was able to produce a maximum speed of 3000 rpm (1700 g) and was easily kept at 2000 rpm (760 g) for several minutes.
 
-Our prototype in action
+<p align="center">
+    <img src="/assets/images/centrifuge/testing.jpg" width="95%">
+    <br />
+    <i align="center">Our prototype in action</i>
+</p>
+
 
 There's still a lot of characterization to do. However, at 2000 rpm for 7 minutes, the centrifuge successfully sendimentated E.Coli samples
 
