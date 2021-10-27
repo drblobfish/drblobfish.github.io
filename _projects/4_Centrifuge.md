@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bicycle Centrifuge
+title: Bicycle-Powered Centrifuge
 description: Open source prototype of bicycle powered centrifuge
 ---
 
@@ -25,6 +25,10 @@ Commercially available centrifuges are very expensive. Indeed, the cheapest one 
 This is where our project comes in. We proved the concept of using a bike to make a centrifuge that would be easy to build from accessible and cheap components and could centrifuge eight 50 mL tubes at the same time, and at a high centrifugal force.
 
 Our main goals are : security because a centrifuge spins very fast and is dangerous, frugality so that labs with low resources can build it, and efficiency, so that it achieves the right speed and successfully sedimentates a cell culture.
+
+<p align="center">
+    <img src="../assets.images/centrifuge/3d_centri.png" width="95%">
+</p>
 
 3d design of our centrifuge - adapted from T-FLEX CAD ST (CC BY 4.0)
 
