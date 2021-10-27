@@ -27,13 +27,16 @@ This is where our project comes in. We proved the concept of using a bike to mak
 Our main goals are : security because a centrifuge spins very fast and is dangerous, frugality so that labs with low resources can build it, and efficiency, so that it achieves the right speed and successfully sedimentates a cell culture.
 
 <p align="center">
-    <img src="../assets/images/centrifuge/3d_centri.png" width="95%">
+    <img src=".../assets/images/centrifuge/3d_centri.png" width="95%">
     <p>3d design of our centrifuge - adapted from T-FLEX CAD ST (CC BY 4.0)</p>
 </p>
 
 The rotation of the centrifuge is provided by pedaling on a bicycle. A 3d printed reduction gear is used to increase the rotational speed. We also created a tachometer to measure the speed of the centrifuge.
 
-The 3d printed gear that provides the speed multiplication and the magnetic sensor of the speedometer
+<p align="center">
+    <img src=".../assets/images/centrifuge/reduction_gear.jpg" width="95%">
+    <p>The 3d printed gear that provides the speed multiplication and the magnetic sensor of the speedometer</p>
+</p>
 
 # TIME LINE of the project
 
