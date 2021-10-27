@@ -63,6 +63,8 @@ Our prototype was able to produce a maximum speed of 3000 rpm (1700 g) and was e
 
 There's still a lot of characterization to do. However, at 2000 rpm for 7 minutes, the centrifuge successfully sendimentated E.Coli samples
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7mGYlUD9sFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Thanks
 
 We want to give credit to Zoe Pincemaille, who is the initiator of this project, under the direction of Ayan Abukar. She has assisted us with her expertise both on engineering and on the use of centrifuge in a biology lab environment.
