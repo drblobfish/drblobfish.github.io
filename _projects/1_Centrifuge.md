@@ -8,6 +8,10 @@ description: Open source prototype of bicycle powered centrifuge
 
 An open source design of an easy-to-build and low tech centrifuge aiming at reducing the inaccessibility of lab equipment for low income biology labs and citizen scientists.
 
+<p align="center">
+    <img src="/assets/images/centrifuge/centri.jpg" width="100%">
+</p>
+
 # A centrifuge ? What is this ?
 
 If you have ever left muddy water in a container for a long time, you probably experienced this phenomenon. Under the influence of gravity, the dirt sinks to the bottom of the container because it is denser than water. Eventually, all the different components of the mixture are separated from each other based on their density in a process called sedimentation.
@@ -63,7 +67,9 @@ Our prototype was able to produce a maximum speed of 3000 rpm (1700 g) and was e
 
 There's still a lot of characterization to do. However, at 2000 rpm for 7 minutes, the centrifuge successfully sendimentated E.Coli samples
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7mGYlUD9sFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/7mGYlUD9sFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 # Thanks
 
