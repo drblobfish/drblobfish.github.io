@@ -19,7 +19,7 @@ If you have ever left muddy water in a container for a long time, you probably e
 This process is widely used in biology to separate the different components of liquids, for example to separate cells from their growing medium, to purify DNA or proteins, etc.
 
 <p align="center">
-    <img src="/assets/images/centrifuge/schema.png" width="50%">
+    <img src="/assets/images/centrifuge/schema.png" width="20%">
 </p>
 
 However, this phenomenon takes a lot of time because the acceleration created by earth gravity is limited. That’s why biology labs use a device called a centrifuge. By spinning some sample at high speed, a centrifuge applies a centrifugal force that can be thousand times bigger than earth gravity. This force allows to sedimentate a liquid mixture faster and more efficiently.
