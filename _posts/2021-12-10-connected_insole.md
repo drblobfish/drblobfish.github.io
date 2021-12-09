@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Générateur de voeux d'anniversaire"
+title: "Connected insole"
 description: "Creating an opensource connected insole with pressure sensor for podological diagnosis"
 ---
 
