@@ -39,9 +39,9 @@ However, I worked with slightly different material than the YAWO team as I was p
 
 ## The Insole
 
-The insole used, the RX-ES42-16P, is a 3×6 pressure sensor matrix between two plastic sheet. It consists of 16 pressure sensors organized as follows.
+The insole used, the RX-ES42-16P, is a $3 \times 6$ pressure sensor matrix between two plastic sheet. It consists of 16 pressure sensors organized as follows.
 
-> A matrix is an efficient way of packing a lot of sensors while using less pins : we define column and row pins connected to multiple sensor such that each pair row pin/column pin is only connected to one sensor. Then if we take measures between one row and one column at a time, we can measure all n sensor while only using √ n digital output pins and √ n analog input pins.
+> A matrix is an efficient way of packing a lot of sensors while using less pins : we define column and row pins connected to multiple sensor such that each pair row pin/column pin is only connected to one sensor. Then if we take measures between one row and one column at a time, we can measure all n sensor while only using $\sqrt{n}$ digital output pins and $\sqrt{n}$ analog input pins.
 
 <p align="center">
     <img src="/assets/images/insole/schem_insole.png" width="95%">
@@ -67,7 +67,7 @@ This Arduino-compatible board is able to communicate through the Bluetooth Low E
 
 Usually when dealing with electrical matrix, multiplexers are used to reduce the number of pins used.
 
-> A multiplexer is an electrical component that essentially behave like a switch that can connect one input pin to a single output pins and that is controlled electronically. The advantage is that if you have n output pins, you only need log2(n) bits to encode the information about which pin you want to connect. For example, if I need to measure 8 sensors, I could use 8 analog input pins but I could also connect all the sensors to a single analog input pin through a multiplexer and control the multiplexer with only 4 digital output pins.
+> A multiplexer is an electrical component that essentially behave like a switch that can connect one input pin to a single output pins and that is controlled electronically. The advantage is that if you have n output pins, you only need $log_2(n)$ bits to encode the information about which pin you want to connect. For example, if I need to measure 8 sensors, I could use 8 analog input pins but I could also connect all the sensors to a single analog input pin through a multiplexer and control the multiplexer with only 4 digital output pins.
 
 <p align="center">
     <img src="/assets/images/insole/mux_fond.png" width="50%">
