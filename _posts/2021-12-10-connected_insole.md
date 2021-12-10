@@ -67,7 +67,7 @@ This Arduino-compatible board is able to communicate through the Bluetooth Low E
 
 Usually when dealing with electrical matrix, multiplexers are used to reduce the number of pins used.
 
-> A multiplexer is an electrical component that essentially behave like a switch that can connect one input pin to a single output pins and that is controlled electronically. The advantage is that if you have n output pins, you only need $log_2(n)$ bits to encode the information about which pin you want to connect. For example, if I need to measure 8 sensors, I could use 8 analog input pins but I could also connect all the sensors to a single analog input pin through a multiplexer and control the multiplexer with only 4 digital output pins.
+> A multiplexer is an electrical component that essentially behave like a switch that can connect one input pin to a single output pins and that is controlled electronically. The advantage is that if you have n output pins, you only need $$log_2(n)$$ bits to encode the information about which pin you want to connect. For example, if I need to measure 8 sensors, I could use 8 analog input pins but I could also connect all the sensors to a single analog input pin through a multiplexer and control the multiplexer with only 4 digital output pins.
 
 <p align="center">
     <img src="/assets/images/insole/mux_fond.png" width="50%">
