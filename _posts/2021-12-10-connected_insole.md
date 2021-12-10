@@ -39,9 +39,9 @@ However, I worked with slightly different material than the YAWO team as I was p
 
 ## The Insole
 
-The insole used, the RX-ES42-16P, is a $3 \times 6$ pressure sensor matrix between two plastic sheet. It consists of 16 pressure sensors organized as follows.
+The insole used, the RX-ES42-16P, is a $$3 \times 6$$ pressure sensor matrix between two plastic sheet. It consists of 16 pressure sensors organized as follows.
 
-> A matrix is an efficient way of packing a lot of sensors while using less pins : we define column and row pins connected to multiple sensor such that each pair row pin/column pin is only connected to one sensor. Then if we take measures between one row and one column at a time, we can measure all n sensor while only using $\sqrt{n}$ digital output pins and $\sqrt{n}$ analog input pins.
+> A matrix is an efficient way of packing a lot of sensors while using less pins : we define column and row pins connected to multiple sensor such that each pair row pin/column pin is only connected to one sensor. Then if we take measures between one row and one column at a time, we can measure all n sensor while only using $$\sqrt{n}$$ digital output pins and $$\sqrt{n}$$ analog input pins.
 
 <p align="center">
     <img src="/assets/images/insole/schem_insole.png" width="95%">
