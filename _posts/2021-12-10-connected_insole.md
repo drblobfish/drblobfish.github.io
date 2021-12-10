@@ -99,17 +99,17 @@ I created a table that links each of the 16 sensors to its column-row pair. To r
 const int sensors[16][2] = { {d3,c},{d3,b},{d4,c},{d4,b},{d2,d},...
 
 void read_all_sensors(){
-	for (int i_sens=0;i_sens<nb_sensor;i_sens++){
-	    // setting the sensor pin HIGH
-	    digitalWrite(sensors[i_sens][0], HIGH);
-	    // and all other columns to LOW
-	    for (int j_col=0;j_col<nb_col;j_col++){
-	      if (colPin[j_col] != sensors[i_sens][0]){
-	        digitalWrite(colPin[j_col], LOW);
-	        }
-	      }
-	    // reading the sensor value
-	    sensorValues[i_sens] = analogRead(sensors[i_sens][1]);
+    for (int i_sens=0;i_sens<nb_sensor;i_sens++){
+        // setting the sensor pin HIGH
+        digitalWrite(sensors[i_sens][0], HIGH);
+        // and all other columns to LOW
+        for (int j_col=0;j_col<nb_col;j_col++){
+          if (colPin[j_col] != sensors[i_sens][0]){
+            digitalWrite(colPin[j_col], LOW);
+            }
+          }
+        // reading the sensor value
+        sensorValues[i_sens] = analogRead(sensors[i_sens][1]);
 }
 
 ```
