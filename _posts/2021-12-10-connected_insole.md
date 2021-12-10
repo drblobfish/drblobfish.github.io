@@ -39,7 +39,7 @@ However, I worked with slightly different material than the YAWO team as I was p
 
 ## The Insole
 
-The insole used, the RX-ES42-16P, is a $$3 \times 6$$ pressure sensor matrix between two plastic sheet. It consists of 16 pressure sensors organized as follows.
+The insole used, the RX-ES42-16P, is a $$4 \times 6$$ pressure sensor matrix between two plastic sheet. It consists of 16 pressure sensors organized as follows.
 
 > A matrix is an efficient way of packing a lot of sensors while using less pins : we define column and row pins connected to multiple sensor such that each pair row pin/column pin is only connected to one sensor. Then if we take measures between one row and one column at a time, we can measure all n sensor while only using $$\sqrt{n}$$ digital output pins and $$\sqrt{n}$$ analog input pins.
 
@@ -94,6 +94,25 @@ The circuit is thus really simple.
 ## Reading the sensors
 
 I created a table that links each of the 16 sensors to its column-row pair. To read all the sensor, the feather nrf 52 board only has to iterate over this table, send power to the column pin and not to the other columns, then read the correct row pin.
+
+```c++
+const int sensors[16][2] = {{d3,c},{d3,b},{d4,c},{d4,b},{d2,d},...
+
+void read_all_sensors(){
+	for (int i_sens=0;i_sens<nb_sensor;i_sens++){
+	    // setting the sensor pin HIGH
+	    digitalWrite(sensors[i_sens][0], HIGH);
+	    // and all other columns to LOW
+	    for (int j_col=0;j_col<nb_col;j_col++){
+	      if (colPin[j_col] != sensors[i_sens][0]){
+	        digitalWrite(colPin[j_col], LOW);
+	        }
+	      }
+	    // reading the sensor value
+	    sensorValues[i_sens] = analogRead(sensors[i_sens][1]);
+}
+
+```
 
 ## Bluetooth support
 
