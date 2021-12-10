@@ -96,7 +96,7 @@ The circuit is thus really simple.
 I created a table that links each of the 16 sensors to its column-row pair. To read all the sensor, the feather nrf 52 board only has to iterate over this table, send power to the column pin and not to the other columns, then read the correct row pin.
 
 ```c++
-const int sensors[16][2] = {{d3,c},{d3,b},{d4,c},{d4,b},{d2,d},...
+const int sensors[16][2] = { {d3,c},{d3,b},{d4,c},{d4,b},{d2,d},...
 
 void read_all_sensors(){
 	for (int i_sens=0;i_sens<nb_sensor;i_sens++){
