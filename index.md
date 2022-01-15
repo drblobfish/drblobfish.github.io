@@ -12,8 +12,16 @@ published: true
 ---------------------------
 
 - I’m interested in :
-  - Bioinformatics 💻
+  - Quantitative biology 💻
+  - Opensource health device ⚕️
   - Evolutionnary biology 🧬
   - Learning as much things as possible 📖
-- 🎓 I’m currently studying in the "Frontiers of Life" Science Bachelor at [CRI](https://cri-paris.org/en), Paris
+- 🎓 I’m currently an undergrad in the "Frontiers of Life" Science Bachelor at [CRI](https://cri-paris.org/en), Paris
 - If i got the time some of my projects will be uploaded on this page
+
+
+----------
+Please note :
+
+- **I'm not a doctor**, in fact I chose the nickname DrBlobfish before being even aware of the existence of those academic honorary title shenanigans
+- I don't use social networks like twitter, linked in or whatever. But if you want to be notified the next time there's something new on this website, feel free to **use the RSS feed** by clicking the icon below.
