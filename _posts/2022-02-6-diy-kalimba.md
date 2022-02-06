@@ -8,7 +8,7 @@ description: "a DIY Electro Acoustic Kalimba that kinda works"
 In late October we decided with my class to do a secret Santa event. It was decided that DIY gifts were strongly encouraged, which imho was a really great idea. After randomly assigning a secret Santa to everyone, I discovered that I had to make a gift for a good friend of mine that happen to be a big music fan. I immediately thought about building some sort of instrument. In addition, this friend is quite interested in microtonal music, which meant I had to build an instrument he could easily tune (or detune) at his will.
 
 
-That’s why I chose to build a **Kalimba** and just for fun, I added the possibility to amplify its signal.
+That’s why I chose to build a [**Kalimba**](https://en.wikipedia.org/wiki/Mbira) and just for fun, I added the possibility to amplify its signal.
 
 You'll find tha build instrution on [instructable](https://www.instructables.com/DIY-Electro-Acoustic-Kalimba/)
 
