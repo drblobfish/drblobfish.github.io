@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "DIY Kalimba"
-description: "a DIY Electro Acoustic Kalimba that kinda works"
+description: "A DIY Electro Acoustic Kalimba that kinda works"
 ---
-
 
 In late October we decided with my class to do a secret Santa event. It was decided that DIY gifts were strongly encouraged, which imho was a really great idea. After randomly assigning a secret Santa to everyone, I discovered that I had to make a gift for a good friend of mine that happen to be a big music fan. I immediately thought about building some sort of instrument. In addition, this friend is quite interested in microtonal music, which meant I had to build an instrument he could easily tune (or detune) at his will.
 
