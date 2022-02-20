@@ -3,26 +3,28 @@ layout: post
 title: "Interaction"
 description: "Adding JS in my blog"
 ---
+<link rel="stylesheet" href="2022-02-6-interaction.css">
 
-<svg width="100" height="710" viewBox="0 0 10 71" fill="none" xmlns="http://www.w3.org/2000/svg">
+<div class="digicode">
+  <div class="digi-row">
+    <div class="digi-butt">1</div>
+    <div class="digi-butt">2</div>
+    <div class="digi-butt">3</div>
+  </div>
+  <div class="digi-row">
+    <div class="digi-butt">4</div>
+    <div class="digi-butt">5</div>
+    <div class="digi-butt">6</div>
+  </div>
+  <div class="digi-row">
+    <div class="digi-butt">7</div>
+    <div class="digi-butt">8</div>
+    <div class="digi-butt">9</div>
+  </div>
 
-<style>
-  .gradient {
-        stop-color: #60c17d;
-      }
-  
-      @media (prefers-color-scheme: dark) {
-        .gradient {
-          stop-color: white;
-        }
-      }
-</style>
-
-<rect width="10" height="71" fill="url(#paint0_linear)"/>
-<defs>
-  <linearGradient id="paint0_linear" x1="5" y1="0" x2="5" y2="71" gradientUnits="userSpaceOnUse">
-    <stop class="gradient" stop-opacity="0"/>
-    <stop class="gradient" offset="1" />
-  </linearGradient>
-</defs>
-</svg>
+  <div class="digi-row">
+    <div class="digi-butt">A</div>
+    <div class="digi-butt">0</div>
+    <div class="digi-butt">B</div>
+  </div>
+</div>
