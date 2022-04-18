@@ -4,6 +4,7 @@ permalink: /
 profile:
   align: right
   image: profile.png
+  shape: round
 published: true
 ---
 
