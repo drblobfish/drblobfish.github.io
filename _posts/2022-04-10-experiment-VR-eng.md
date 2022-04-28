@@ -17,7 +17,7 @@ We are therefore **looking for volunteers** to take part in a small experiment. 
 # The experiment
 
 - Answer a starting form on your computer prior to the experiment. (less than 10 minutes)
-- Take part in the 1h15 long experiment at LPI (8bis rue Charles V, 75004 Paris) at any time you like. It involves spending time on a computer and in a virtual reality set.
+- Take part in the 1h15 long experiment at LPI (8bis rue Charles V, 75004 Paris) in room S.30 (in the basement) at any time you like. It involves spending time on a computer and in a virtual reality set.
 - Answer an ending form. (less than 10 minutes)
 
 The experiments will take place between the **28th, 29th, 30th of April and 2nd of May** and you can already choose your time slots.

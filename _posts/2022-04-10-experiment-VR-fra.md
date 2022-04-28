@@ -17,7 +17,7 @@ Nous sommes actuellement à la **recherche de volontaires** pour participer à u
 # L'expérience
 
 - Remplir un questionnaire chez vous. (moins de 10 minutes)
-- Participer à l’expérience (comprend des tâches à effectuer à la fois sur un ordinateur et en réalité virtuelle) au LPI (8bis rue Charles V, 75004 Paris), à un horaire que vous pourrez choisir (moins de 1h 15)
+- Participer à l’expérience (comprend des tâches à effectuer à la fois sur un ordinateur et en réalité virtuelle) au LPI (8bis rue Charles V, 75004 Paris) en salle S.30 (à l'étage -1), à un horaire que vous pourrez choisir (moins de 1h 15)
 - Remplir un questionnaire final. (moins de 10 minutes)
 
 Les expériences auront lieu durant les **28, 29, 30 Avril et 2 Mai**. Vous avez déjà la possibilité de choisir parmi plusieurs créneaux horaires.

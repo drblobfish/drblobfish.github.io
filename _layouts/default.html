@@ -36,13 +36,19 @@
         </main>
 
         <footer>
-          <p class="copy">
-            <small> &copy; {{site.title}} {{ site.time | date: '%Y' }}
-                    | Powered by Jekyll and
+          <div class="copy">
+            <small> 
+                    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+                        <img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" />
+                    </a> 
+                    CC BY 4.0 
+                    {{site.title}} {{ site.time | date: '%Y' }}
+                    <br />
+                    Powered by Jekyll and
                     <a target="_blank" href="https://github.com/jitinnair1/gradfolio/">Gradfolio</a>.
                     Last updated on {{ site.time | date_to_long_string }}
             </small>
-          </p>
+          </div>
 
         {% include social-footer.html %}
 
