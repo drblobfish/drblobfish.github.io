@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Connected insole"
-description: "Creating an opensource connected insole with pressure sensor for podological diagnosis"
+title: Connected insole
+description: Connected insole for podological diagnosis
 ---
 
 [tl;dr] As a personnal project, I worked on an insole with pressure sensors that communicates via Bluetooth to a web app (test it at [this address](https://drblobfish.github.io/connected_insole/))
