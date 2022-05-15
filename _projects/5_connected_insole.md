@@ -186,5 +186,6 @@ Loads of improvements are possible for this project :
 
 All my [code is available on GitHub](https://github.com/drblobfish/connected_insole)
 
+Here are [some slides](/assets/pdf/connected-insole/slides_connected_insole.pdf) I made to present my project (I had only 5 minutes to present and my evaluators were more interested about the skills I learned than the actual details of the insole)
 
 You can still [test the web app](https://drblobfish.github.io/connected_insole/)
