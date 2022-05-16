@@ -10,7 +10,7 @@ profile:
 
 # Bonjour !
 
-Nous sommes un groupe d'étudiants de la license scientifique [Frontière Du Vivant au LPI](https://licence.learningplanetinstitute.org/fr) et nous travaillons sur un projet de recherche visant à comprendre l’effet de la réalité virtuelle sur la capacité à analyser des formes 3D complexes.
+Nous sommes un groupe d'étudiants de la licence scientifique [Frontière Du Vivant au LPI](https://licence.learningplanetinstitute.org/fr) et nous travaillons sur un projet de recherche visant à comprendre l’effet de la réalité virtuelle sur la capacité à analyser des formes 3D complexes.
 
 Nous sommes actuellement à la **recherche de volontaires** pour participer à une courte expérience. Vous trouverez ci-dessous la description des tâches qui vont vous être demandé d’effectuer, ainsi que le temps que cela va vous prendre.
 
