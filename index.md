@@ -12,14 +12,26 @@ published: true
 
 ---------------------------
 
-- I’m interested in :
-  - Quantitative biology 💻
-  - Opensource health devices ⚕️
-  - Evolutionnary biology 🧬
-  - Learning as much things as possible 📖
-- 🎓 I’m currently an undergrad in the "Frontiers of Life" Science Bachelor at [CRI](https://cri-paris.org/en), Paris
-- If i got the time some of my projects will be uploaded on this page
+I’m interested in :
+- Computational biology 💻
+- Opensource health devices ⚕️
+- Evolutionnary biology 🧬
+- Learning as much things as possible 📖
 
+
+🎓 I’m currently an undergrad in the "Frontiers of Life" Science Bachelor at [CRI](https://cri-paris.org/en), [Paris Cité University](https://u-paris.fr/en/).
+
+
+If i got the time some of my projects will be uploaded on this website.
+
+------------------
+
+I'm currently learning :
+- **[toki pona](https://devurandom.xyz/tokipona/)** : a minimalist constructed language. *mi sona e toki pona*
+- **[Rust](https://www.rust-lang.org/learn)** : the programming language, not iron oxide.
+
+Last book I read :
+- **[Oceanic](https://openlibrary.org/works/OL17941738W/Oc%C3%A9anique)** : Another collection of SF shorts written by Greg Egan. A must read for every science nerd imho.
 
 ----------
 Please note :
